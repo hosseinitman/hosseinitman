@@ -1,0 +1,19 @@
+{
+  "name": "hhh",
+  "version": "1.0.0",
+  "description": "\"# hosseinitman\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hosseinitman/hosseinitman.git"
+  },
+  "author": "hossein norouzi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hosseinitman/hosseinitman/issues"
+  },
+  "homepage": "https://github.com/hosseinitman/hosseinitman#readme"
+}
