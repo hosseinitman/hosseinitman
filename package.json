@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/hosseinitman/hosseinitman/issues"
   },
-  "homepage": "https://github.com/hosseinitman/hosseinitman#readme"
+  "homepage": "https://github.com/hosseinitman/hosseinitman#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
 }
