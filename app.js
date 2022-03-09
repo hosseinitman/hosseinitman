@@ -6,6 +6,9 @@ app.get('/',(req,res)=>{
     console.log("hi hossein norouzi");
 })
 
+app.get('/home',(req,res)=>{
+    document.write("welcome hossein norouzi");
+})
 
 
 app.listen(PORT,()=>{
